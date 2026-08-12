@@ -39,19 +39,6 @@ BCA'27 student passionate about Java EE 🚀 | JSP, Servlets, JDBC, Oracle DB | 
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="left">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=techenthu2005&show_icons=true&theme=dark&hide_border=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=techenthu2005&layout=compact&theme=dark&hide_border=true" />
-</p>
-
-<p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=techenthu2005&theme=dark&hide_border=true" />
-</p>
-
----
-
 ### 💬 Random Dev Quote
 
 <p align="left">
@@ -74,5 +61,5 @@ BCA'27 student passionate about Java EE 🚀 | JSP, Servlets, JDBC, Oracle DB | 
 </p>
 
 <p align="left">
-  📫 Reach me: <b>YOUR-EMAIL@example.com</b>
+  📫 Reach me: <b>Srijayeeg@gmail.com</b>
 </p>
